@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💬 Chat
+    url: https://discord.gg/graphile
+    about: Join the community Discord server to ask questions (#help-and-support), suggest features (#dev-*), showcase your work (#i-made-this), or just hang out (#watercooler)
