@@ -12,8 +12,8 @@ labels: "✨ feature"
 
 ### Motivating example
 
-<!-- Why is this feature useful to other people and not just you? Can you think
-      of some different use cases where it would be used? -->
+<!-- What motivated this feature request? Why is this feature useful to other
+      people? What other use cases can you think of for it?  -->
 
 ### Breaking changes
 
