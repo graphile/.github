@@ -1,12 +1,8 @@
----
-name: ✨ New feature
-about: If you're enabling something that wasn't previously possible, this is the template for you ❤️
-labels: "✨ feature"
----
-
 ## Description
 
-<!-- Detail the feature this PR adds and the motivation behind it -->
+<!-- If this PR adds a feature, what does it add and what was the motivation for it? -->
+<!-- If this PR fixes an issue, what is the issue? -->
+<!-- Please link to the relevant GitHub issues/Discord discussion/etc as appropriate -->
 
 ## Performance impact
 
@@ -18,8 +14,8 @@ labels: "✨ feature"
 
 ## Checklist
 
-<!-- Put an x in the boxes below that apply, **removing the space** `[x]`. If
-      this PR is work in progress, please open it as a "Draft PR". -->
+<!-- If this PR is work in progress, please open it as a "Draft PR". -->
+<!-- To tick a checkbox, change it from `[ ]` to `[x]` -->
 
 - [ ] My code matches the project's code style and `yarn lint:fix` passes.
 - [ ] I've added tests for the new feature, and `yarn test` passes.
